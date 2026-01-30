@@ -69,7 +69,7 @@ modelsummary(models)
 modelplot(models)
 ```
 
-![Monkey in the city](../assets/dk.jpg)
+![Monkey in the city](../assets/static/dk.jpg)
 
 
 # References
