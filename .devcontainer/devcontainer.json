@@ -14,6 +14,7 @@
                 "James-Yu.latex-workshop"
             ],
             "settings": {
+                "terminal.integrated.defaultProfile.linux": "zsh",
                 "r.bracketedPaste": true,
                 "r.rterm.linux": "/usr/local/bin/radian",
                 "r.plot.useHttpgd": true,

@@ -56,7 +56,7 @@ This template is organized as follows
 ├── src # all the code goes here
 │   ├── main.qmd # generate the final report
 │   └── lib # helper functions
-├── out # where your generated report is stored (not committed to git)
+├── out # where generated outputs are stored (not committed to git)
 ├── _quarto.yaml # configuration for Quarto
 ├── .lintr # configuration for R linting
 └── .devcontainer # configuration for the containerized environment
