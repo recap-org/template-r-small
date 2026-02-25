@@ -28,7 +28,7 @@ If you want to keep working on this project (locally or in the cloud), create yo
 
 The RECAP documentation explains:
 - how to create your own repository,
-- how to run the template locally or in an isolated environment,
+- how to run the template in the cloud, locally or in an isolated environment ,
 - and how to choose the setup that fits your needs.
 
 ➡️ See **[How to run a RECAP template](https://recap-org.github.io/docs/running-templates/)** on the RECAP website.
